@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "HTML",
+    "color": "#d14923",
+    "src": "./assets/html5.svg",
+    "web": "https://20essentials.github.io/20-projects-with-html-and-css/"
+  },
+  {
+    "id": 2,
+    "name": "CSS Art",
+    "color": "#663399",
+    "src": "./assets/css.svg",
+    "web": "https://20essentials.github.io/20-projects-with-css-art/"
+  },
+  {
+    "id": 3,
+    "name": "Web Components",
+    "color": "#ddf021",
+    "src": "./assets/webcomponents.svg",
+    "web": "https://20essentials.github.io/20-projects-with-web-components/"
+  },
+  {
+    "id": 4,
+    "name": "CSS OLD",
+    "color": "#264de4",
+    "src": "./assets/css_old.svg",
+    "web": "/",
+    "notExists": true
+  },
+  {
+    "id": 5,
+    "name": "JavaScript",
+    "color": "#f0db4f",
+    "src": "./assets/javascript.svg",
+    "web": "/",
+    "notExists": true
+  },
+  {
+    "id": 6,
+    "name": "Canvas",
+    "color": "#aeea2f",
+    "src": "./assets/canvas.png",
+    "web": "https://20essentials.github.io/20-projects-with-canvas/"
+  },
+  {
+    "id": 7,
+    "name": "Svg",
+    "color": "#ffb13b",
+    "src": "./assets/logosvg.svg",
+    "web": "/",
+    "notExists": true
+  },
+  {
+    "id": 8,
+    "name": "GitHub",
+    "color": "#fff",
+    "src": "./assets/github.svg",
+    "web": "/",
+    "notExists": true
+  }
+]

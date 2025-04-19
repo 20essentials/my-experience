@@ -1,0 +1,102 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import TechStack from '@/data/technologies.json';
+---
+
+<Layout>
+  {
+    Array.from({ length: 100 }, (_, i) => {
+      const {
+        name = 'imagen',
+        web = '/',
+        src = './assets/transparentimage.png',
+        color = 'transparent',
+        notExists
+      } = TechStack[i] || {};
+      return (
+        <a class={`card ${notExists ? 'opaco' : ''}`} href={web} title={name} style={`--clr: ${color};`}>
+          <img src={src} alt={name} />
+        </a>
+      );
+    })
+  }
+</Layout>
+
+<script is:inline>
+  document.addEventListener('mousemove', e => {
+    if (e.target.matches('.card')) {
+      const card = e.target;
+      const x = e.clientX - card.offsetLeft;
+      const y = e.clientY - card.offsetTop;
+      card.style.setProperty('--x', `${x}px`);
+      card.style.setProperty('--y', `${y}px`);
+    }
+  });
+</script>
+
+<style>
+  .card {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    place-content: center;
+    flex-grow: 1;
+    height: 20vh;
+    position: relative;
+    width: 10%;
+    overflow: hidden;
+
+    &.opaco {
+      img {
+        opacity: 0.2;
+      }
+    }
+
+    &::before,
+    &::after {
+      content: '';
+      position: absolute;
+      pointer-events: none;
+    }
+
+    &::before {
+      background-color: #2228;
+      inset: 0.15vmax;
+      z-index: 3;
+    }
+
+    &:hover {
+      &::after {
+        opacity: 1;
+      }
+    }
+
+    &::after {
+      z-index: 1;
+      width: 200%;
+      height: 200%;
+      background-image: radial-gradient(
+        var(--clr, #0f0),
+        transparent,
+        transparent
+      );
+      transform: translate(-50%, -50%);
+      top: var(--y, 0px);
+      left: var(--x, 0px);
+      opacity: 0;
+      transition: opacity 0.2s ease;
+    }
+
+    @media (width <= 1111px) and (orientation: portrait) {
+      width: 20%;
+      height: 10%;
+    }
+
+    img {
+      width: 40%;
+      position: relative;
+      z-index: 5;
+      pointer-events: none;
+    }
+  }
+</style>
