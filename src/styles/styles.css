@@ -47,12 +47,8 @@ body::-webkit-scrollbar-track {
 
 body::-webkit-scrollbar-thumb {
   background: var(--sb-thumb-color);
-  background: linear-gradient(
-    to bottom,
-    transparent,
-    var(--scroll-color, #0f0),
-    transparent
-  );
+  background: url('./assets/rand.png'), var(--scroll-color, #0f0);
+  background-size: cover;
 }
 
 @supports not selector(::-webkit-scrollbar) {

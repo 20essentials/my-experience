@@ -33,8 +33,7 @@
     "name": "JavaScript",
     "color": "#f0db4f",
     "src": "./assets/javascript.svg",
-    "web": "/",
-    "notExists": true
+    "web": "https://20essentials.github.io/20-projects-with-javascript/"
   },
   {
     "id": 6,
