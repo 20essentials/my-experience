@@ -47,14 +47,20 @@
     "name": "Svg",
     "color": "#ffb13b",
     "src": "./assets/logosvg.svg",
-    "web": "/",
-    "notExists": true
+    "web": "https://20essentials.github.io/20-projects-with-svg/"
   },
   {
     "id": 8,
     "name": "GitHub",
     "color": "#fff",
     "src": "./assets/github.svg",
+    "web": "https://20essentials.github.io/20-projects-in-github/"
+  },
+  {
+    "id": 9,
+    "name": "GitHub",
+    "color": "transparent",
+    "src": "./assets/transparentimage.png",
     "web": "/",
     "notExists": true
   }

@@ -27,8 +27,6 @@ body {
   background-color: #000;
   display: flex;
   flex-wrap: wrap;
-  animation: changeColor linear forwards;
-  animation-timeline: scroll();
 }
 
 body {
@@ -46,37 +44,14 @@ body::-webkit-scrollbar-track {
 }
 
 body::-webkit-scrollbar-thumb {
-  background: var(--sb-thumb-color);
-  background: url('./assets/rand.png'), var(--scroll-color, #0f0);
+  background: url('./assets/rand.png'),
+    linear-gradient(to bottom, red, orange, yellow, lime, cyan, blue);
   background-size: cover;
+  border-radius: 999px;
 }
 
 @supports not selector(::-webkit-scrollbar) {
   body {
     scrollbar-color: var(--sb-thumb-color) var(--sb-track-color);
   }
-}
-
-@keyframes changeColor {
-  0%   { --scroll-color: red; }
-  5%   { --scroll-color: orange; }
-  10%  { --scroll-color: yellow; }
-  15%  { --scroll-color: lime; }
-  20%  { --scroll-color: cyan; }
-  25%  { --scroll-color: blue; }
-  30%  { --scroll-color: magenta; }
-  35%  { --scroll-color: deeppink; }
-  40%  { --scroll-color: gold; }
-  45%  { --scroll-color: green; }
-  50%  { --scroll-color: turquoise; }
-  55%  { --scroll-color: navy; }
-  60%  { --scroll-color: purple; }
-  65%  { --scroll-color: tomato; }
-  70%  { --scroll-color: violet; }
-  75%  { --scroll-color: teal; }
-  80%  { --scroll-color: coral; }
-  85%  { --scroll-color: mediumspringgreen; }
-  90%  { --scroll-color: dodgerblue; }
-  95%  { --scroll-color: hotpink; }
-  100% { --scroll-color: red; } 
 }
