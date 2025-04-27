@@ -8,10 +8,10 @@
   },
   {
     "id": 2,
-    "name": "CSS Art",
-    "color": "#663399",
-    "src": "./assets/css.svg",
-    "web": "https://20essentials.github.io/20-projects-with-css-art/"
+    "name": "CSS and 3D",
+    "color": "#2d64bc",
+    "src": "./assets/cssand3d.png",
+    "web": "https://20essentials.github.io/20-projects-with-css-and-3d/"
   },
   {
     "id": 3,
@@ -22,11 +22,10 @@
   },
   {
     "id": 4,
-    "name": "CSS OLD",
-    "color": "#264de4",
-    "src": "./assets/css_old.svg",
-    "web": "/",
-    "notExists": true
+    "name": "CSS Art",
+    "color": "#663399",
+    "src": "./assets/css.svg",
+    "web": "https://20essentials.github.io/20-projects-with-css-art/"
   },
   {
     "id": 5,
@@ -58,6 +57,13 @@
   },
   {
     "id": 9,
+    "name": "CSS",
+    "color": "#264de4",
+    "src": "./assets/css_old.svg",
+    "web": "https://20essentials.github.io/20-projects-with-css/"
+  },
+  {
+    "id": 10,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",

@@ -41,10 +41,17 @@ import TechStack from '@/data/technologies.json';
     flex-wrap: wrap;
     place-content: center;
     flex-grow: 1;
-    height: 20vh;
+    max-height: 20vh;
     position: relative;
     width: 10%;
     overflow: hidden;
+    aspect-ratio: 1 / 1;
+
+    &:focus {
+      border: none;
+      outline: none;
+      box-shadow: inset 0 0 50px var(--clr, #0f0);
+    }
 
     &.opaco {
       img {
