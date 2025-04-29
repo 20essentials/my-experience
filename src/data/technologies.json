@@ -64,6 +64,20 @@
   },
   {
     "id": 10,
+    "name": "DOM API",
+    "color": "#c88641",
+    "src": "./assets/Dom.png",
+    "web": "https://20essentials.github.io/20-projects-with-the-dom-api/"
+  },
+  {
+    "id": 11,
+    "name": "Scroll Animations + 3D",
+    "color": "#464646",
+    "src": "./assets/scrollAnimations.png",
+    "web": "https://20essentials.github.io/20-projects-with-scroll-animations-and-3d/"
+  },
+  {
+    "id": 12,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
