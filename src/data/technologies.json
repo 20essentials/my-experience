@@ -78,6 +78,20 @@
   },
   {
     "id": 12,
+    "name": "Github Pages",
+    "color": "#e4c9b4",
+    "src": "./assets/GitHubPagesLogo.png",
+    "web": "https://20essentials.github.io/20-projects-in-github-pages/"
+  },
+  {
+    "id": 13,
+    "name": "Netlify",
+    "color": "#05bdba",
+    "src": "./assets/netlify.svg",
+    "web": "https://20essentials.github.io/20-projects-in-netlify/"
+  },
+  {
+    "id": 14,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
