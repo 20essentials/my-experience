@@ -106,6 +106,13 @@
   },
   {
     "id": 16,
+    "name": "Pug.js",
+    "color": "#e5c39d",
+    "src": "./assets/pug.png",
+    "web": "https://20essentials.github.io/20-projects-with-pug/"
+  },
+  {
+    "id": 17,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
