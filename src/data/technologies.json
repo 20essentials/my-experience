@@ -113,6 +113,13 @@
   },
   {
     "id": 17,
+    "name": "Nunjucks",
+    "color": "#1e591e",
+    "src": "./assets/nunjucks.png",
+    "web": "https://20essentials.github.io/20-projects-with-nunjucks/"
+  },
+  {
+    "id": 18,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
