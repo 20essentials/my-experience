@@ -120,6 +120,13 @@
   },
   {
     "id": 18,
+    "name": "Render",
+    "color": "#e9e9e9",
+    "src": "./assets/render.svg",
+    "web": "https://20essentials.github.io/20-projects-in-render/"
+  },
+  {
+    "id": 19,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
