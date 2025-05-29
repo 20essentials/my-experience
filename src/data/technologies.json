@@ -85,10 +85,10 @@
   },
   {
     "id": 13,
-    "name": "Netlify",
-    "color": "#05bdba",
-    "src": "./assets/netlify.svg",
-    "web": "https://20essentials.github.io/20-projects-in-netlify/"
+    "name": "Cloudflare",
+    "color": "#f4811f",
+    "src": "./assets/cloudflare.svg",
+    "web": "https://20essentials.github.io/20-projects-in-cloudflare/"
   },
   {
     "id": 14,
@@ -118,15 +118,30 @@
     "src": "./assets/nunjucks.png",
     "web": "https://20essentials.github.io/20-projects-with-nunjucks/"
   },
+
   {
     "id": 18,
+    "name": "Cloudflare Pages",
+    "color": "#ffe557",
+    "src": "./assets/cloudflare-pages.png",
+    "web": "https://20essentials.github.io/20-projects-in-cloudflare-pages/"
+  },
+  {
+    "id": 19,
     "name": "Render",
     "color": "#e9e9e9",
     "src": "./assets/render.svg",
     "web": "https://20essentials.github.io/20-projects-in-render/"
   },
   {
-    "id": 19,
+    "id": 20,
+    "name": "Netlify",
+    "color": "#05bdba",
+    "src": "./assets/netlify.svg",
+    "web": "https://20essentials.github.io/20-projects-in-netlify/"
+  },
+  {
+    "id": 21,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
