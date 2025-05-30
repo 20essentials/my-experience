@@ -14,7 +14,12 @@ import TechStack from '@/data/technologies.json';
         notExists
       } = TechStack[i] || {};
       return (
-        <a class={`card ${notExists ? 'opaco' : ''}`} href={web} title={name} style={`--clr: ${color};`}>
+        <a
+          class={`card ${notExists ? 'opaco' : ''}`}
+          href={web}
+          title={name}
+          style={`--clr: ${color};`}
+        >
           <img src={src} alt={name} />
         </a>
       );

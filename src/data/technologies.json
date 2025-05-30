@@ -142,6 +142,13 @@
   },
   {
     "id": 21,
+    "name": "LiquidJs",
+    "color": "#0584ce",
+    "src": "./assets/liquid.png",
+    "web": "https://20essentials.github.io/20-projects-with-liquidjs/"
+  },
+  {
+    "id": 22,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
