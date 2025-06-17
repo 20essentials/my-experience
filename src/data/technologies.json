@@ -170,6 +170,13 @@
   },
   {
     "id": 25,
+    "name": "Socket.IO",
+    "color": "#fff",
+    "src": "./assets/socket-io-logo.svg",
+    "web": "https://20essentials.github.io/20-projects-with-socket-io/"
+  },
+  {
+    "id": 26,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
