@@ -177,13 +177,20 @@
   },
   {
     "id": 26,
-    "name": "Socket.IO",
-    "color": "#00ffff",
+    "name": "React",
+    "color": "#087ea4",
     "src": "./assets/reactLogo.svg",
     "web": "https://20essentials.github.io/20-projects-with-react/"
   },
   {
     "id": 27,
+    "name": "Emotion CSS",
+    "color": "#d36ac2",
+    "src": "./assets/emotion.png",
+    "web": "https://20essentials.github.io/20-projects-with-emotion-css/"
+  },
+  {
+    "id": 28,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
