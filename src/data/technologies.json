@@ -191,6 +191,13 @@
   },
   {
     "id": 28,
+    "name": "TypeScript",
+    "color": "#007acc",
+    "src": "./assets/typescript.svg",
+    "web": "https://20essentials.github.io/20-projects-with-typescript/"
+  },
+  {
+    "id": 29,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
