@@ -197,7 +197,14 @@
     "web": "https://20essentials.github.io/20-projects-with-typescript/"
   },
   {
-    "id": 29,
+    "id": 28,
+    "name": "Json Web Tokens",
+    "color": "#fb015b",
+    "src": "./assets/jwt.svg",
+    "web": "https://20essentials.github.io/20-projects-with-jwt/"
+  },
+  {
+    "id": 30,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
