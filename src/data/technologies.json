@@ -197,7 +197,7 @@
     "web": "https://20essentials.github.io/20-projects-with-typescript/"
   },
   {
-    "id": 28,
+    "id": 29,
     "name": "Json Web Tokens",
     "color": "#fb015b",
     "src": "./assets/jwt.svg",
@@ -205,6 +205,13 @@
   },
   {
     "id": 30,
+    "name": "DB Local",
+    "color": "#fdc31b",
+    "src": "./assets/dblocal.png",
+    "web": "https://20essentials.github.io/20-projects-with-db-local/"
+  },
+  {
+    "id": 31,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
