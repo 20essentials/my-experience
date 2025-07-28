@@ -219,6 +219,13 @@
   },
   {
     "id": 32,
+    "name": "Linaria",
+    "color": "#de2d68",
+    "src": "./assets/linaria-logo.png",
+    "web": "https://20essentials.github.io/20-projects-with-linaria/"
+  },
+  {
+    "id": 33,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
