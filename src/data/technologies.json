@@ -226,6 +226,13 @@
   },
   {
     "id": 33,
+    "name": "Inkscape",
+    "color": "#373c50",
+    "src": "./assets/inkscape.png",
+    "web": "https://20essentials.github.io/20-svgs-with-inkscape/"
+  },
+  {
+    "id": 34,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
