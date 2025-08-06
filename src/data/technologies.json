@@ -240,6 +240,13 @@
   },
   {
     "id": 35,
+    "name": "React Testing Library",
+    "color": "#e95d55",
+    "src": "./assets/react-testing-library.png",
+    "web": "https://20essentials.github.io/landing-20-exercises-with-react-testing-library/"
+  },
+  {
+    "id": 36,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
