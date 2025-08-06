@@ -233,6 +233,13 @@
   },
   {
     "id": 34,
+    "name": "Tailwind",
+    "color": "#38bdf8",
+    "src": "./assets/tailwind.svg",
+    "web": "https://20essentials.github.io/20-projects-with-tailwind/"
+  },
+  {
+    "id": 35,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
