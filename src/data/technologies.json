@@ -247,6 +247,13 @@
   },
   {
     "id": 36,
+    "name": "Jest",
+    "color": "#99425b",
+    "src": "./assets/jest.svg",
+    "web": "https://20essentials.github.io/landing-20-exercises-with-jest/"
+  },
+  {
+    "id": 37,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
