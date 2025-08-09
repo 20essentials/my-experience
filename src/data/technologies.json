@@ -254,6 +254,13 @@
   },
   {
     "id": 37,
+    "name": "LightSwindUi",
+    "color": "#ff4f12",
+    "src": "./assets/lightswind.png",
+    "web": "https://20essentials.github.io/20-components-using-lightswindui/"
+  },
+  {
+    "id": 38,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
