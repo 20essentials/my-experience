@@ -261,6 +261,13 @@
   },
   {
     "id": 38,
+    "name": "Deno Deploy",
+    "color": "#fff",
+    "src": "./assets/deno-deploy.svg",
+    "web": "https://20essentials.github.io/20-projects-in-deno-deploy/"
+  },
+  {
+    "id": 39,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
