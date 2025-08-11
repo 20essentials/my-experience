@@ -268,6 +268,13 @@
   },
   {
     "id": 39,
+    "name": "PandaCSS",
+    "color": "#2490f0",
+    "src": "./assets/panda-css.webp",
+    "web": "https://20essentials.github.io/20-projects-with-pandacss/"
+  },
+  {
+    "id": 40,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
