@@ -275,6 +275,13 @@
   },
   {
     "id": 40,
+    "name": "eCSStatic",
+    "color": "#ff3333",
+    "src": "./assets/ecsstatic.svg",
+    "web": "https://20essentials.github.io/20-projects-with-ecsstatic/"
+  },
+  {
+    "id": 41,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
