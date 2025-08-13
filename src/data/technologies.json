@@ -282,6 +282,13 @@
   },
   {
     "id": 41,
+    "name": "Vercel",
+    "color": "#ffffff",
+    "src": "./assets/vercel.svg",
+    "web": "https://20essentials.github.io/20-projects-in-vercel/"
+  },
+  {
+    "id": 42,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
