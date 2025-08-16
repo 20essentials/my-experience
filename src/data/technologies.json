@@ -289,6 +289,13 @@
   },
   {
     "id": 42,
+    "name": "Js Events",
+    "color": "#ffa200",
+    "src": "./assets/js-events-logo.png",
+    "web": "https://20essentials.github.io/20-projects-using-js-events/"
+  },
+  {
+    "id": 42,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
