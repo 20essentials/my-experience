@@ -310,6 +310,13 @@
   },
   {
     "id": 45,
+    "name": "StyleX",
+    "color": "#fff",
+    "src": "./assets/stylex-logo.svg",
+    "web": "https://20essentials.github.io/20-projects-with-stylex/"
+  },
+  {
+    "id": 46,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
