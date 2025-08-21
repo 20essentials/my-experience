@@ -331,6 +331,13 @@
   },
   {
     "id": 48,
+    "name": "Mocha",
+    "color": "#8e6746",
+    "src": "./assets/mocha-logo.png",
+    "web": "https://20essentials.github.io/landing-20-exercises-with-mocha/"
+  },
+  {
+    "id": 49,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
