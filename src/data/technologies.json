@@ -324,6 +324,13 @@
   },
   {
     "id": 47,
+    "name": "Twind",
+    "color": "#80cbc4",
+    "src": "./assets/twind-logo.svg",
+    "web": "https://20essentials.github.io/20-projects-with-twind/"
+  },
+  {
+    "id": 48,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
