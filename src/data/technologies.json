@@ -338,6 +338,13 @@
   },
   {
     "id": 49,
+    "name": "UnoCSS",
+    "color": "#858585",
+    "src": "./assets/unocss.svg",
+    "web": "https://20essentials.github.io/20-projects-with-unocss/"
+  },
+  {
+    "id": 50,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
