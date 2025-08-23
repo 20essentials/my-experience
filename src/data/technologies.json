@@ -345,6 +345,13 @@
   },
   {
     "id": 50,
+    "name": "Haml",
+    "color": "#ecdfa7",
+    "src": "./assets/haml.png",
+    "web": "https://20essentials.github.io/20-projects-with-haml/"
+  },
+  {
+    "id": 51,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
