@@ -31,8 +31,8 @@ import TechStack from '@/data/technologies.json';
   document.addEventListener('mousemove', e => {
     if (e.target.matches('.card')) {
       const card = e.target;
-      const x = e.clientX - card.offsetLeft;
-      const y = e.clientY - card.offsetTop;
+      const x = e.pageX - card.offsetLeft;
+      const y = e.pageY - card.offsetTop;
       card.style.setProperty('--x', `${x}px`);
       card.style.setProperty('--y', `${y}px`);
     }

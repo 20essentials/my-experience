@@ -352,6 +352,13 @@
   },
   {
     "id": 51,
+    "name": "GSAP",
+    "color": "#0f0",
+    "src": "./assets/gsap-logo.webp",
+    "web": "https://20essentials.github.io/20-projects-with-gsap/"
+  },
+  {
+    "id": 52,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
