@@ -366,6 +366,13 @@
   },
   {
     "id": 53,
+    "name": "Zustand",
+    "color": "#b07363",
+    "src": "./assets/zustand.svg",
+    "web": "https://20essentials.github.io/20-projects-with-zustand/"
+  },
+  {
+    "id": 54,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
