@@ -373,6 +373,13 @@
   },
   {
     "id": 54,
+    "name": "Uiverse",
+    "color": "#a055c0",
+    "src": "./assets/uiverse.png",
+    "web": "https://20essentials.github.io/20-projects-in-uiverse/"
+  },
+  {
+    "id": 55,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
