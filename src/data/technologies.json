@@ -380,6 +380,13 @@
   },
   {
     "id": 55,
+    "name": "Codepen",
+    "color": "#fff",
+    "src": "./assets/codepen.svg",
+    "web": "https://20essentials.github.io/20-projects-in-codepen/"
+  },
+  {
+    "id": 56,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
