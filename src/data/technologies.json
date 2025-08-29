@@ -387,6 +387,13 @@
   },
   {
     "id": 56,
+    "name": "LeetCode",
+    "color": "#d2951c",
+    "src": "./assets/leetcode.webp",
+    "web": "https://20essentials.github.io/20-exercises-solved-in-leetcode/"
+  },
+  {
+    "id": 57,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
