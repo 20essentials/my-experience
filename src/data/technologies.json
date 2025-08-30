@@ -394,6 +394,13 @@
   },
   {
     "id": 57,
+    "name": "Simplex Noise",
+    "color": "#c70481",
+    "src": "./assets/simplex-noise.png",
+    "web": "https://20essentials.github.io/20-projects-with-simplex-noise/"
+  },
+  {
+    "id": 58,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
