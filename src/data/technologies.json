@@ -401,6 +401,13 @@
   },
   {
     "id": 58,
+    "name": "Green Sock Animation Platform",
+    "color": "#93d400",
+    "src": "./assets/green-sock-animation-platform.png",
+    "web": "https://20essentials.github.io/20-projects-with-green-sock-animation-platform/"
+  },
+  {
+    "id": 59,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
