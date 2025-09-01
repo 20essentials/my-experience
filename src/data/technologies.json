@@ -408,6 +408,13 @@
   },
   {
     "id": 59,
+    "name": "Visual Studio Code",
+    "color": "#23a9f2",
+    "src": "./assets/vscode.svg",
+    "web": "https://20essentials.github.io/20-essentials-using-visual-studio-code/"
+  },
+  {
+    "id": 60,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
