@@ -415,6 +415,13 @@
   },
   {
     "id": 60,
+    "name": "Git",
+    "color": "#de4c36",
+    "src": "./assets/git.svg",
+    "web": "https://20essentials.github.io/20-essentials-using-git/"
+  },
+  {
+    "id": 61,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
