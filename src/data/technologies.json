@@ -422,6 +422,13 @@
   },
   {
     "id": 61,
+    "name": "Tweakpane Exercises",
+    "color": "#afb2b3",
+    "src": "./assets/tweakpane-exercises.png",
+    "web": "https://20-exercises-with-tweakpane.vercel.app/"
+  },
+  {
+    "id": 62,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
