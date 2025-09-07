@@ -429,6 +429,13 @@
   },
   {
     "id": 62,
+    "name": "Astro",
+    "color": "#ff5d01",
+    "src": "./assets/astro.svg",
+    "web": "https://20essentials.github.io/20-projects-with-astro/"
+  },
+  {
+    "id": 63,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
