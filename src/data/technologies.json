@@ -443,6 +443,13 @@
   },
   {
     "id": 64,
+    "name": "WindiCSS",
+    "color": "#3c97ef",
+    "src": "./assets/windicss.svg",
+    "web": "https://20essentials.github.io/20-projects-with-windicss/"
+  },
+  {
+    "id": 65,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
