@@ -450,6 +450,13 @@
   },
   {
     "id": 65,
+    "name": "Sass",
+    "color": "#a04f78",
+    "src": "./assets/sass.svg",
+    "web": "https://20essentials.github.io/20-projects-with-sass/"
+  },
+  {
+    "id": 66,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
