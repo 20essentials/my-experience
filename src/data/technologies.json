@@ -457,6 +457,13 @@
   },
   {
     "id": 66,
+    "name": "Bootstrap",
+    "color": "#7911f7",
+    "src": "./assets/bootstrap.svg",
+    "web": "https://20essentials.github.io/20-projects-with-bootstrap/"
+  },
+  {
+    "id": 67,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
