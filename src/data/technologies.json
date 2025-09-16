@@ -478,6 +478,13 @@
   },
   {
     "id": 69,
+    "name": "Materialize",
+    "color": "#ef939d",
+    "src": "./assets/materialize.svg",
+    "web": "https://20essentials.github.io/20-projects-with-materialize/"
+  },
+  {
+    "id": 70,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
