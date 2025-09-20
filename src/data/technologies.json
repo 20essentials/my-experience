@@ -499,6 +499,13 @@
   },
   {
     "id": 72,
+    "name": "ScrollTrigger Plugin",
+    "color": "#388704",
+    "src": "./assets/scrolltrigger.png",
+    "web": "https://20essentials.github.io/20-projects-using-scrolltrigger/"
+  },
+  {
+    "id": 73,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
