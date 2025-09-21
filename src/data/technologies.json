@@ -506,6 +506,13 @@
   },
   {
     "id": 73,
+    "name": "Semantic UI",
+    "color": "#35bdb2",
+    "src": "./assets/semantic-ui.png",
+    "web": "https://20essentials.github.io/20-projects-with-semantic-ui"
+  },
+  {
+    "id": 74,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
