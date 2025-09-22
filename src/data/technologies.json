@@ -506,13 +506,20 @@
   },
   {
     "id": 73,
+    "name": "Mantine CSS",
+    "color": "#339af0",
+    "src": "./assets/mantine.svg",
+    "web": "https://20essentials.github.io/20-projects-using-mantine/"
+  },
+  {
+    "id": 74,
     "name": "Semantic UI",
     "color": "#35bdb2",
     "src": "./assets/semantic-ui.png",
     "web": "https://20essentials.github.io/20-projects-with-semantic-ui"
   },
   {
-    "id": 74,
+    "id": 75,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
