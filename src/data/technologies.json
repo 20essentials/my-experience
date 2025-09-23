@@ -527,6 +527,13 @@
   },
   {
     "id": 76,
+    "name": "Playwright",
+    "color": "#1d8d22",
+    "src": "./assets/playwright.svg",
+    "web": "https://20essentials.github.io/20-exercises-with-playwright/"
+  },
+  {
+    "id": 77,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
