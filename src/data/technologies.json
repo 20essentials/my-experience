@@ -520,6 +520,13 @@
   },
   {
     "id": 75,
+    "name": "Daisy UI",
+    "color": "#fed41b",
+    "src": "./assets/daisyui.png",
+    "web": "https://20essentials.github.io/20-projects-using-daisy-ui/"
+  },
+  {
+    "id": 76,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
