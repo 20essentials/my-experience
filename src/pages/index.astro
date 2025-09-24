@@ -27,16 +27,20 @@ import TechStack from '@/data/technologies.json';
   }
 </Layout>
 
-<script is:inline>
-  document.addEventListener('mousemove', e => {
-    if (e.target.matches('.card')) {
-      const card = e.target;
-      const x = e.pageX - card.offsetLeft;
-      const y = e.pageY - card.offsetTop;
+<script>
+  function handleMove(e: TouchEvent | MouseEvent) {
+    const card = e.target as HTMLElement;
+    if (card.matches('.card')) {
+      const { pageX, pageY } = e instanceof TouchEvent ? e.touches[0] : e;
+      const x = pageX - card.offsetLeft;
+      const y = pageY - card.offsetTop;
       card.style.setProperty('--x', `${x}px`);
       card.style.setProperty('--y', `${y}px`);
     }
-  });
+  }
+
+  document.addEventListener('mousemove', handleMove);
+  document.addEventListener('touchmove', handleMove, { passive: true})
 </script>
 
 <style>

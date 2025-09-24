@@ -534,6 +534,13 @@
   },
   {
     "id": 77,
+    "name": "GLTF",
+    "color": "#86c540",
+    "src": "./assets/gltf.png",
+    "web": "https://20essentials.github.io/20-projects-with-gltf/"
+  },
+  {
+    "id": 78,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
