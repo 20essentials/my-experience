@@ -28,6 +28,9 @@ import TechStack from '@/data/technologies.json';
 </Layout>
 
 <script>
+  const $ = <T extends Element = HTMLElement>(selector: string): T =>
+    document.querySelector<T>(selector) as T;
+
   function handleMove(e: TouchEvent | MouseEvent) {
     const card = e.target as HTMLElement;
     if (card.matches('.card')) {
@@ -39,8 +42,66 @@ import TechStack from '@/data/technologies.json';
     }
   }
 
+  function handleKeyDown(e: KeyboardEvent) {
+    const { key } = e;
+    const activeElement = document.activeElement as HTMLElement;
+    if (!activeElement.classList.contains('card')) {
+      const firstCard = $('.card');
+      firstCard.focus();
+    }
+    const arrayOfElements = getFlexRows(document.body);
+    const numOfRows = arrayOfElements[0].length;
+    if (['ArrowRight', 'd', 'D'].includes(key)) {
+      const nextElement = activeElement?.nextElementSibling as HTMLElement;
+      nextElement.focus();
+    } else if (['ArrowLeft', 'a', 'A'].includes(key)) {
+      const previousElement =
+        activeElement?.previousElementSibling as HTMLElement;
+      previousElement?.focus();
+    } else if (['ArrowDown', 's', 'S'].includes(key)) {
+      const index = Array.from(
+        activeElement.parentElement?.children || []
+      ).indexOf(activeElement);
+      const nextRowElement = activeElement.parentElement?.children[
+        index + numOfRows
+      ] as HTMLElement;
+      nextRowElement?.focus();
+    } else if (['ArrowUp', 'w', 'W'].includes(key)) {
+      const index = Array.from(
+        activeElement.parentElement?.children || []
+      ).indexOf(activeElement);
+      const previousRowElement = activeElement.parentElement?.children[
+        index - numOfRows
+      ] as HTMLElement;
+      previousRowElement?.focus();
+    }
+  }
+
+  function getFlexRows(container: HTMLElement): HTMLElement[][] {
+    const rows: HTMLElement[][] = [];
+    let currentTop = -1;
+    let currentRow: HTMLElement[] = [];
+
+    Array.from(container.children).forEach(child => {
+      const el = child as HTMLElement;
+      if (currentTop === -1) currentTop = el.offsetTop;
+
+      if (el.offsetTop !== currentTop) {
+        rows.push(currentRow);
+        currentRow = [];
+        currentTop = el.offsetTop;
+      }
+
+      currentRow.push(el);
+    });
+
+    if (currentRow.length) rows.push(currentRow);
+    return rows;
+  }
+
   document.addEventListener('mousemove', handleMove);
-  document.addEventListener('touchmove', handleMove, { passive: true})
+  document.addEventListener('touchmove', handleMove, { passive: true });
+  document.addEventListener('keydown', handleKeyDown);
 </script>
 
 <style>
