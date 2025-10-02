@@ -44,6 +44,7 @@ import TechStack from '@/data/technologies.json';
 
   function handleKeyDown(e: KeyboardEvent) {
     const { key } = e;
+    if (e.ctrlKey || e.altKey || e.shiftKey) return;
     const activeElement = document.activeElement as HTMLElement;
     if (!activeElement.classList.contains('card')) {
       const firstCard = $('.card');
