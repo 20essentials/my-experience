@@ -548,6 +548,13 @@
   },
   {
     "id": 79,
+    "name": "NPM",
+    "color": "#cc0000",
+    "src": "./assets/npm.svg",
+    "web": "https://20essentials.github.io/20-packages-in-npm/"
+  },
+  {
+    "id": 80,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
