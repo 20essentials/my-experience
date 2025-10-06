@@ -555,6 +555,13 @@
   },
   {
     "id": 80,
+    "name": "PNPM",
+    "color": "#f9ad00",
+    "src": "./assets/pnpm.svg",
+    "web": "https://20essentials.github.io/20-packages-to-use-with-pnpm/"
+  },
+  {
+    "id": 81,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
