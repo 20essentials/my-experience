@@ -562,6 +562,13 @@
   },
   {
     "id": 81,
+    "name": "snapDOM",
+    "color": "#4090cf",
+    "src": "./assets/snapdom.png",
+    "web": "https://20essentials.github.io/20-projects-using-snapdom/"
+  },
+  {
+    "id": 82,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
