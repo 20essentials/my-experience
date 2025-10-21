@@ -499,17 +499,17 @@
   },
   {
     "id": 72,
-    "name": "ScrollTrigger Plugin",
-    "color": "#388704",
-    "src": "./assets/scrolltrigger.png",
-    "web": "https://20essentials.github.io/20-projects-using-scrolltrigger/"
-  },
-  {
-    "id": 73,
     "name": "Mantine CSS",
     "color": "#339af0",
     "src": "./assets/mantine.svg",
     "web": "https://20essentials.github.io/20-projects-using-mantine/"
+  },
+  {
+    "id": 73,
+    "name": "ScrollTrigger Plugin",
+    "color": "#388704",
+    "src": "./assets/scrolltrigger.png",
+    "web": "https://20essentials.github.io/20-projects-using-scrolltrigger/"
   },
   {
     "id": 74,
@@ -569,11 +569,19 @@
   },
   {
     "id": 82,
+    "name": "Notion",
+    "color": "#fff",
+    "src": "./assets/notion.png",
+    "web": "https://funny-raptorex-860.notion.site/20-Projects-using-Notion-28921194efee80e19296e4610a735b92"
+  },
+  {
+    "id": 83,
     "name": "Affinity Designer",
     "color": "#134881",
     "src": "./assets/affinity-designer.svg",
     "web": "https://20essentials.github.io/20-svg-using-affinity-designer/"
   },
+
   {
     "id": 83,
     "name": "GitHub",
