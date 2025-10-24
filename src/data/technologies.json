@@ -581,9 +581,16 @@
     "src": "./assets/affinity-designer.svg",
     "web": "https://20essentials.github.io/20-svg-using-affinity-designer/"
   },
-
   {
-    "id": 83,
+    "id": 84,
+    "name": "Canva",
+    "color": "#5a5ae3",
+    "src": "./assets/canva.gif",
+    "web": "https://20essentials.github.io/20-designs-with-canva/",
+    "classNameExtra": "canva"
+  },
+  {
+    "id": 85,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
