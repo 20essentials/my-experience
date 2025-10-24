@@ -5,7 +5,7 @@
     #esrszalajy65_tr {
       animation: esrszalajy65_tr__tr 3000ms linear infinite normal forwards
     }
-/* 
+
     @keyframes esrszalajy65_tr__tr {
       0% {
         transform: translate(154.652417px, 63.770002px) rotate(0deg);
@@ -32,7 +32,7 @@
       100% {
         transform: translate(154.652417px, 63.770002px) rotate(0.218094deg)
       }
-    } */
+    }
     ]]>
   </style>
   <g id="esrszalajy62" transform="matrix(1 0 0 1 14.23241708500002 18.33000183000001)">
