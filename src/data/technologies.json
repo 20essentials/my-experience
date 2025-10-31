@@ -598,6 +598,13 @@
   },
   {
     "id": 86,
+    "name": "corelDRAW",
+    "color": "#62418e",
+    "src": "./assets/corelDRAW.png",
+    "web": "https://20essentials.github.io/20-designs-with-coreldraw/"
+  },
+  {
+    "id": 87,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
