@@ -612,6 +612,50 @@
   },
   {
     "id": 88,
+    "name": "Wix",
+    "color": "#fff",
+    "src": "./assets/wix-logo.png",
+    "web": ""
+  },
+  {
+    "id": 89,
+    "name": "Velo",
+    "color": "#3536e5",
+    "src": "./assets/velo.png",
+    "web": ""
+  },
+  {
+    "id": 90,
+    "name": "Wix Studio",
+    "color": "#81a4f2",
+    "src": "./assets/wix-studio.svg",
+    "web": ""
+  },
+  {
+    "id": 91,
+    "name": "Supabase",
+    "color": "#32b47a",
+    "src": "./assets/supabase.svg",
+    "web": ""
+  },
+  {
+    "id": 92,
+    "name": "Next JS",
+    "color": "#fff",
+    "src": "./assets/next-js.svg",
+    "web": ""
+  },
+  {
+    "id": 93,
+    "name": "Next JS - Part 2",
+    "color": "#fff",
+    "src": "./assets/next-js-logo.svg",
+    "web": "",
+    "classNameExtra": "next-js-part-2"
+  },
+
+  {
+    "id": 88,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
