@@ -605,6 +605,13 @@
   },
   {
     "id": 87,
+    "name": "React Bits",
+    "color": "#fff",
+    "src": "./assets/react-bits-logo.png",
+    "web": "https://20essentials.github.io/some-components-using-react-bits/"
+  },
+  {
+    "id": 88,
     "name": "GitHub",
     "color": "transparent",
     "src": "./assets/transparentimage.png",
