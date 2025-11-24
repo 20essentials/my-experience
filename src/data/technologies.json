@@ -539,26 +539,27 @@
     "src": "./assets/gltf.png",
     "web": "https://20essentials.github.io/20-projects-with-gltf/"
   },
+
   {
     "id": 78,
-    "name": "Krita",
-    "color": "#e4de07",
-    "src": "./assets/krita.png",
-    "web": "https://20essentials.github.io/20-images-and-svgs-with-krita/"
-  },
-  {
-    "id": 79,
     "name": "NPM",
     "color": "#cc0000",
     "src": "./assets/npm.svg",
     "web": "https://20essentials.github.io/20-packages-in-npm/"
   },
   {
-    "id": 80,
+    "id": 79,
     "name": "PNPM",
     "color": "#f9ad00",
     "src": "./assets/pnpm.svg",
     "web": "https://20essentials.github.io/20-packages-to-use-with-pnpm/"
+  },
+  {
+    "id": 80,
+    "name": "Npm Part 2",
+    "color": "#f00",
+    "src": "./assets/npm-wordmark.svg",
+    "web": "https://20essentials.github.io/20-packages-in-npm-part-2/"
   },
   {
     "id": 81,
@@ -591,11 +592,12 @@
   },
   {
     "id": 85,
-    "name": "Npm Part 2",
-    "color": "#f00",
-    "src": "./assets/npm-wordmark.svg",
-    "web": "https://20essentials.github.io/20-packages-in-npm-part-2/"
+    "name": "Canva Part 2",
+    "color": "#0bb6cf",
+    "src": "./assets/canva-isotopic-logo.svg",
+    "web": "https://20essentials.github.io/designs-with-canva-part-2/"
   },
+
   {
     "id": 86,
     "name": "corelDRAW",
@@ -617,48 +619,16 @@
     "src": "./assets/supabase.svg",
     "web": "https://20-projects-using-sup4base.vercel.app/"
   },
+
   {
     "id": 89,
-    "name": "Next JS",
-    "color": "#fff",
-    "src": "./assets/next-js.svg",
-    "web": "",
-    "classNameExtra": "still-uncomplete"
+    "name": "Krita",
+    "color": "#e4de07",
+    "src": "./assets/krita.png",
+    "web": "https://20essentials.github.io/20-images-and-svgs-with-krita/"
   },
   {
     "id": 90,
-    "name": "Next JS - Part 2",
-    "color": "#fff",
-    "src": "./assets/next-js-logo.svg",
-    "web": "",
-    "classNameExtra": "next-js-part-2 still-uncomplete"
-  },
-  {
-    "id": 91,
-    "name": "Wix",
-    "color": "#fff",
-    "src": "./assets/wix-logo.png",
-    "web": "",
-    "classNameExtra": "still-uncomplete"
-  },
-  {
-    "id": 92,
-    "name": "Velo",
-    "color": "#3536e5",
-    "src": "./assets/velo.png",
-    "web": "",
-    "classNameExtra": "still-uncomplete"
-  },
-  {
-    "id": 93,
-    "name": "Wix Studio",
-    "color": "#81a4f2",
-    "src": "./assets/wix-studio.svg",
-    "web": "",
-    "classNameExtra": "still-uncomplete"
-  },
-  {
-    "id": 94,
     "name": "Turso",
     "color": "#4ff8d2",
     "src": "./assets/turso.svg",
@@ -666,13 +636,46 @@
     "classNameExtra": "still-uncomplete"
   },
   {
-    "id": 95,
-    "name": "Vite",
-    "color": "#b73cfe",
-    "src": "./assets/vite.svg",
+    "id": 91,
+    "name": "Next JS",
+    "color": "#fff",
+    "src": "./assets/next-js.svg",
     "web": "",
     "classNameExtra": "still-uncomplete"
   },
+  {
+    "id": 92,
+    "name": "Next JS - Part 2",
+    "color": "#fff",
+    "src": "./assets/next-js-logo.svg",
+    "web": "",
+    "classNameExtra": "next-js-part-2 still-uncomplete"
+  },
+  {
+    "id": 93,
+    "name": "Wix",
+    "color": "#fff",
+    "src": "./assets/wix-logo.png",
+    "web": "",
+    "classNameExtra": "still-uncomplete"
+  },
+  {
+    "id": 94,
+    "name": "Velo",
+    "color": "#3536e5",
+    "src": "./assets/velo.png",
+    "web": "",
+    "classNameExtra": "still-uncomplete"
+  },
+  {
+    "id": 95,
+    "name": "Wix Studio",
+    "color": "#81a4f2",
+    "src": "./assets/wix-studio.svg",
+    "web": "",
+    "classNameExtra": "still-uncomplete"
+  },
+
   {
     "id": 96,
     "name": "TurboPack",
@@ -713,7 +716,14 @@
     "web": "",
     "classNameExtra": "still-uncomplete"
   },
-
+  {
+    "id": 101,
+    "name": "Vite",
+    "color": "#b73cfe",
+    "src": "./assets/vite.svg",
+    "web": "",
+    "classNameExtra": "still-uncomplete"
+  },
   {
     "id": 88,
     "name": "GitHub",
