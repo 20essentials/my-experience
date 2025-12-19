@@ -629,11 +629,10 @@
   },
   {
     "id": 90,
-    "name": "Turso",
-    "color": "#4ff8d2",
-    "src": "./assets/turso.svg",
-    "web": "",
-    "classNameExtra": "still-uncomplete"
+    "name": "Gravit Designer",
+    "color": "#c6d262",
+    "src": "./assets/gravit-designer.png",
+    "web": "https://20-svgs-with-gravit-designer.vercel.app/"
   },
   {
     "id": 91,
@@ -721,6 +720,14 @@
     "name": "Vite",
     "color": "#b73cfe",
     "src": "./assets/vite.svg",
+    "web": "",
+    "classNameExtra": "still-uncomplete"
+  },
+  {
+    "id": 102,
+    "name": "Turso",
+    "color": "#4ff8d2",
+    "src": "./assets/turso.svg",
     "web": "",
     "classNameExtra": "still-uncomplete"
   },
