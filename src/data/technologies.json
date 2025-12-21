@@ -636,6 +636,14 @@
   },
   {
     "id": 91,
+    "name": "View Transitions",
+    "color": "#fff",
+    "src": "./assets/view-transtition-logo.svg",
+    "web": "https://project-1343.vercel.app/",
+    "classNameExtra": "view-more-big"
+  },
+  {
+    "id": 91,
     "name": "Next JS",
     "color": "#fff",
     "src": "./assets/next-js.svg",
