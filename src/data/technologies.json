@@ -647,8 +647,7 @@
     "name": "Next JS",
     "color": "#fff",
     "src": "./assets/next-js.svg",
-    "web": "",
-    "classNameExtra": "still-uncomplete"
+    "web": "https://20essentials.github.io/20-projects-with-nextjs/"
   },
   {
     "id": 92,
