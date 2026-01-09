@@ -663,8 +663,7 @@
     "name": "Wix",
     "color": "#fff",
     "src": "./assets/wix-logo.png",
-    "web": "",
-    "classNameExtra": "still-uncomplete"
+    "web": "https://20essentials.github.io/some-projects-using-wix/"
   },
   {
     "id": 94,
