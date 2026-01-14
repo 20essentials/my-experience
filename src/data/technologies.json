@@ -643,14 +643,21 @@
     "classNameExtra": "view-more-big"
   },
   {
-    "id": 91,
+    "id": 92,
+    "name": "Shadcn",
+    "color": "#fff",
+    "src": "./assets/shadcn.svg",
+    "web": "https://some-components-with-shadcn.vercel.app/"
+  },
+  {
+    "id": 93,
     "name": "Next JS",
     "color": "#fff",
     "src": "./assets/next-js.svg",
     "web": "https://20essentials.github.io/20-projects-with-nextjs/"
   },
   {
-    "id": 92,
+    "id": 94,
     "name": "Next JS - Part 2",
     "color": "#fff",
     "src": "./assets/next-js-logo.svg",
@@ -658,14 +665,14 @@
     "classNameExtra": "next-js-part-2 still-uncomplete"
   },
   {
-    "id": 93,
+    "id": 95,
     "name": "Wix",
     "color": "#fff",
     "src": "./assets/wix-logo.png",
     "web": "https://20essentials.github.io/some-projects-using-wix/"
   },
   {
-    "id": 94,
+    "id": 96,
     "name": "Velo",
     "color": "#3536e5",
     "src": "./assets/velo.png",
@@ -673,7 +680,7 @@
     "classNameExtra": "still-uncomplete"
   },
   {
-    "id": 95,
+    "id": 97,
     "name": "Wix Studio",
     "color": "#81a4f2",
     "src": "./assets/wix-studio.svg",
@@ -682,7 +689,7 @@
   },
 
   {
-    "id": 96,
+    "id": 98,
     "name": "TurboPack",
     "color": "#ff1e56",
     "src": "./assets/turbopack.svg",
@@ -690,7 +697,7 @@
     "classNameExtra": "still-uncomplete"
   },
   {
-    "id": 97,
+    "id": 99,
     "name": "NodeJs",
     "color": "#5cab46",
     "src": "./assets/nodejs.svg",
@@ -698,7 +705,7 @@
     "classNameExtra": "still-uncomplete"
   },
   {
-    "id": 98,
+    "id": 100,
     "name": "Express",
     "color": "#fff",
     "src": "./assets/expressjs.svg",
@@ -706,7 +713,7 @@
     "classNameExtra": "still-uncomplete"
   },
   {
-    "id": 99,
+    "id": 101,
     "name": "Blender",
     "color": "#ff7021",
     "src": "./assets/blender.svg",
@@ -714,7 +721,7 @@
     "classNameExtra": "still-uncomplete"
   },
   {
-    "id": 100,
+    "id": 102,
     "name": "ThreeJs",
     "color": "#fff",
     "src": "./assets/threejs.svg",
@@ -722,7 +729,7 @@
     "classNameExtra": "still-uncomplete"
   },
   {
-    "id": 101,
+    "id": 103,
     "name": "Vite",
     "color": "#b73cfe",
     "src": "./assets/vite.svg",
@@ -730,7 +737,7 @@
     "classNameExtra": "still-uncomplete"
   },
   {
-    "id": 102,
+    "id": 104,
     "name": "Turso",
     "color": "#4ff8d2",
     "src": "./assets/turso.svg",
