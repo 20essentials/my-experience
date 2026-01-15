@@ -651,6 +651,14 @@
   },
   {
     "id": 93,
+    "name": "Nanobana + Veo3",
+    "color": "#fdd44c",
+    "src": "./assets/nanobana.png",
+    "web": "https://some-experiments-with-nano-banana-a.vercel.app/",
+    "classNameExtra": "view-more-big"
+  },
+  {
+    "id": 93,
     "name": "Next JS",
     "color": "#fff",
     "src": "./assets/next-js.svg",
