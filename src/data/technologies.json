@@ -658,6 +658,14 @@
     "classNameExtra": "view-more-big"
   },
   {
+    "id": 94,
+    "name": "Some Svgs With Inkscape Part 2",
+    "color": "#1152c3",
+    "src": "./assets/inkscape-logo-noise.avif",
+    "web": "https://20essentials.github.io/some-svgs-with-inkscape-part-2/",
+    "classNameExtra": "img-percent-55"
+  },
+  {
     "id": 93,
     "name": "Next JS",
     "color": "#fff",
