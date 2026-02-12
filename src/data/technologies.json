@@ -698,10 +698,9 @@
   {
     "id": 97,
     "name": "Wix Studio",
-    "color": "#81a4f2",
+    "color": "#2b69ed",
     "src": "./assets/wix-studio.svg",
-    "web": "",
-    "classNameExtra": "still-uncomplete"
+    "web": "https://20essentials.github.io/some-projects-with-wix-studio/"
   },
 
   {
