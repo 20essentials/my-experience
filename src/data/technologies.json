@@ -666,19 +666,19 @@
     "classNameExtra": "img-percent-55"
   },
   {
-    "id": 93,
+    "id": 95,
     "name": "Next JS",
     "color": "#fff",
     "src": "./assets/next-js.svg",
     "web": "https://20essentials.github.io/20-projects-with-nextjs/"
   },
   {
-    "id": 94,
+    "id": 96,
     "name": "Next JS - Part 2",
     "color": "#fff",
     "src": "./assets/next-js-logo.svg",
-    "web": "",
-    "classNameExtra": "next-js-part-2 still-uncomplete"
+    "web": "https://20essentials.github.io/some-projects-with-nextjs-part-2/",
+    "classNameExtra": "next-js-part-2"
   },
   {
     "id": 95,
@@ -688,23 +688,23 @@
     "web": "https://20essentials.github.io/some-projects-using-wix/"
   },
   {
-    "id": 96,
-    "name": "Velo",
-    "color": "#3536e5",
-    "src": "./assets/velo.png",
-    "web": "",
-    "classNameExtra": "still-uncomplete"
-  },
-  {
     "id": 97,
     "name": "Wix Studio",
     "color": "#2b69ed",
     "src": "./assets/wix-studio.svg",
     "web": "https://20essentials.github.io/some-projects-with-wix-studio/"
   },
-
   {
     "id": 98,
+    "name": "Velo",
+    "color": "#3536e5",
+    "src": "./assets/velo.png",
+    "web": "",
+    "classNameExtra": "still-uncomplete"
+  },
+
+  {
+    "id": 99,
     "name": "TurboPack",
     "color": "#ff1e56",
     "src": "./assets/turbopack.svg",
@@ -712,7 +712,7 @@
     "classNameExtra": "still-uncomplete"
   },
   {
-    "id": 99,
+    "id": 100,
     "name": "NodeJs",
     "color": "#5cab46",
     "src": "./assets/nodejs.svg",
