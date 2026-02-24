@@ -667,13 +667,20 @@
   },
   {
     "id": 95,
+    "name": "Strapi",
+    "color": "#4945ff",
+    "src": "./assets/strapi-logo.svg",
+    "web": "https://20essentials.github.io/some-parts-of-code-and-projects-with-strapi/"
+  },
+  {
+    "id": 96,
     "name": "Next JS",
     "color": "#fff",
     "src": "./assets/next-js.svg",
     "web": "https://20essentials.github.io/20-projects-with-nextjs/"
   },
   {
-    "id": 96,
+    "id": 97,
     "name": "Next JS - Part 2",
     "color": "#fff",
     "src": "./assets/next-js-logo.svg",
@@ -681,30 +688,29 @@
     "classNameExtra": "next-js-part-2"
   },
   {
-    "id": 95,
+    "id": 98,
     "name": "Wix",
     "color": "#fff",
     "src": "./assets/wix-logo.png",
     "web": "https://20essentials.github.io/some-projects-using-wix/"
   },
   {
-    "id": 97,
+    "id": 99,
     "name": "Wix Studio",
     "color": "#2b69ed",
     "src": "./assets/wix-studio.svg",
     "web": "https://20essentials.github.io/some-projects-with-wix-studio/"
   },
   {
-    "id": 98,
+    "id": 100,
     "name": "Velo",
     "color": "#3536e5",
     "src": "./assets/velo.png",
-    "web": "",
-    "classNameExtra": "still-uncomplete"
+    "web": "https://d960960gm.wixstudio.com/velo-practice"
   },
 
   {
-    "id": 99,
+    "id": 100,
     "name": "TurboPack",
     "color": "#ff1e56",
     "src": "./assets/turbopack.svg",
